@@ -1,2 +1,2 @@
 # Nursultan
-Web dev codes/ideas
+hello world
